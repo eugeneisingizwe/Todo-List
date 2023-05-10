@@ -12,7 +12,7 @@ In this project I am building a todos list app using HTML, CSS, and JavaScript (
 - Its done when the object is saved as a string and using localStorage 
 
 ## Link TO Deployed Page 
-
+coming soon....
 ## Mock-Up 
 
 ![Mock-up](./Assets/images/mock-up.png)
